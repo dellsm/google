@@ -3,7 +3,7 @@ kind: Service
 metadata:
   name: google
   labels:
-    type: google-2
+    type: google-3
 spec:
   ports:
   - port: 80
